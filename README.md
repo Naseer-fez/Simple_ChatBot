@@ -33,3 +33,7 @@ My journey in building better chatbots starts here! Future improvements will foc
 1.  **Implementing State:** Introducing memory to the bot so it can follow a conversation thread and reply **accordingly** to the context.
 2.  **Advanced Natural Language Processing (NLP):** Exploring techniques like tokenization, stemming, and TF-IDF to improve keyword matching and intent recognition.
 3.  **Using Machine Learning:** Transitioning to models like Recurrent Neural Networks (RNNs) or Transformers to generate more dynamic and human-like responses.
+
+Hope i can do it someday,and use that to write a good Readme file as this one ,untill then i have to work Hard
+
+   
